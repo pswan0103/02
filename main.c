@@ -5,7 +5,6 @@
 
 int main(int argc, char *argv[]) {
 	printf("Hello, Sookmyung Electronics!\n");
-	printf(10 + 20 = 30);
 	int a, b;
 	a = 10;
 	b = 20;
